@@ -9,7 +9,7 @@
   ],
   "logEnabled": false,
   "loglevel": "warning",
-  "index": 20,
+  "index": 14,
   "vmess": [
     {
       "configVersion": 2,
@@ -26,7 +26,7 @@
       "streamSecurity": "",
       "allowInsecure": "False",
       "configType": 1,
-      "testResult": "  91ms",
+      "testResult": " 819ms",
       "subid": "",
       "flow": ""
     },
@@ -45,7 +45,7 @@
       "streamSecurity": "",
       "allowInsecure": "False",
       "configType": 1,
-      "testResult": " 151ms",
+      "testResult": " 891ms",
       "subid": "",
       "flow": ""
     },
@@ -121,7 +121,7 @@
       "streamSecurity": "",
       "allowInsecure": "False",
       "configType": 1,
-      "testResult": " 118ms",
+      "testResult": " 872ms",
       "subid": "",
       "flow": ""
     },
@@ -159,7 +159,7 @@
       "streamSecurity": "",
       "allowInsecure": "False",
       "configType": 1,
-      "testResult": " 326ms",
+      "testResult": " 992ms",
       "subid": "",
       "flow": ""
     },
@@ -178,7 +178,7 @@
       "streamSecurity": "tls",
       "allowInsecure": "False",
       "configType": 1,
-      "testResult": " 516ms",
+      "testResult": " 160ms",
       "subid": "",
       "flow": ""
     },
@@ -197,7 +197,7 @@
       "streamSecurity": "",
       "allowInsecure": "",
       "configType": 3,
-      "testResult": " 513ms",
+      "testResult": " 778ms",
       "subid": "",
       "flow": ""
     },
@@ -216,7 +216,7 @@
       "streamSecurity": "tls",
       "allowInsecure": "False",
       "configType": 1,
-      "testResult": "基础连接已经关闭: 发送时发生错误。",
+      "testResult": "  操作超时",
       "subid": "",
       "flow": ""
     },
@@ -235,7 +235,7 @@
       "streamSecurity": "",
       "allowInsecure": "",
       "configType": 3,
-      "testResult": " 901ms",
+      "testResult": " 922ms",
       "subid": "",
       "flow": ""
     },
@@ -254,7 +254,7 @@
       "streamSecurity": "tls",
       "allowInsecure": "False",
       "configType": 1,
-      "testResult": " 202ms",
+      "testResult": " 542ms",
       "subid": "",
       "flow": ""
     },
@@ -273,7 +273,7 @@
       "streamSecurity": "tls",
       "allowInsecure": "False",
       "configType": 1,
-      "testResult": " 545ms",
+      "testResult": " 615ms",
       "subid": "",
       "flow": ""
     },
@@ -292,7 +292,7 @@
       "streamSecurity": "",
       "allowInsecure": "",
       "configType": 3,
-      "testResult": " 737ms",
+      "testResult": " 731ms",
       "subid": "",
       "flow": ""
     },
@@ -311,7 +311,7 @@
       "streamSecurity": "",
       "allowInsecure": "",
       "configType": 3,
-      "testResult": " 488ms",
+      "testResult": " 806ms",
       "subid": "",
       "flow": ""
     },
@@ -330,7 +330,7 @@
       "streamSecurity": "",
       "allowInsecure": "",
       "configType": 3,
-      "testResult": " 846ms",
+      "testResult": " 705ms",
       "subid": "",
       "flow": ""
     },
@@ -349,7 +349,7 @@
       "streamSecurity": "tls",
       "allowInsecure": "false",
       "configType": 6,
-      "testResult": " 319ms",
+      "testResult": "  99ms",
       "subid": "",
       "flow": ""
     },
@@ -368,7 +368,7 @@
       "streamSecurity": "",
       "allowInsecure": "",
       "configType": 3,
-      "testResult": " 747ms",
+      "testResult": " 883ms",
       "subid": "",
       "flow": ""
     },
@@ -387,7 +387,7 @@
       "streamSecurity": "",
       "allowInsecure": "False",
       "configType": 1,
-      "testResult": "  操作超时",
+      "testResult": " 707ms",
       "subid": "",
       "flow": ""
     },
@@ -406,7 +406,7 @@
       "streamSecurity": "",
       "allowInsecure": "",
       "configType": 3,
-      "testResult": " 478ms",
+      "testResult": " 888ms",
       "subid": "",
       "flow": ""
     },
@@ -425,7 +425,7 @@
       "streamSecurity": "",
       "allowInsecure": "",
       "configType": 3,
-      "testResult": "  55ms",
+      "testResult": "  77ms",
       "subid": "",
       "flow": ""
     }
@@ -457,7 +457,7 @@
   "defAllowInsecure": false,
   "subItem": [],
   "uiItem": {
-    "mainSize": "968, 632",
+    "mainSize": "160, 28",
     "mainLvColWidth": {
       "def": 30,
       "configType": 80,

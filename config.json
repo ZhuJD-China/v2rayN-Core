@@ -38,7 +38,7 @@
         "servers": [
           {
             "email": null,
-            "address": "172.99.190.205",
+            "address": "169.197.141.91",
             "method": "aes-256-gcm",
             "ota": false,
             "password": "e4FCWrgpkji3QY",
