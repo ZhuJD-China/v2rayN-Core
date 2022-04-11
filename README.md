@@ -1,7 +1,8 @@
 ﻿# v2rayN-Core
 
 ## ## Excellent open source network agent tools, can help you smooth experience the Internet.
-
+### 节点导入方法  
+CTRL+C全选复制，右键点击任务栏v2rayN客户端图标，左键点击从剪贴板批量导入URL，即可一键导入所有v2ray节点  
 ## v2ray  
 ```  
 vmess://eyJhZGQiOiAiZGRucy1qcDAxLmF5YW5hbWkuYmVzdCIsICJhaWQiOiAwLCAiaG9zdCI6ICIiLCAiaWQiOiAiYjMxZjY5ZTItZWZjZS00MTY4LTkzMmQtMmZhMDgzYWIxYjgwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIiIsICJwb3J0IjogODAsICJwcyI6ICJnaXRodWIuY29tL2ZyZWVmcSAtIFx1N2Y4ZVx1NTZmZE1pY3Jvc29mdFx1NjU3MFx1NjM2ZVx1NGUyZFx1NWZjMyAxIiwgInRscyI6ICIiLCAidHlwZSI6ICJhdXRvIn0=  
