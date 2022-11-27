@@ -1,5 +1,7 @@
 ﻿# v2rayN-Core
 
+## freev2rayN.exe 新增-->>>>>一键获取节点
+
 ## ## Excellent open source network agent tools, can help you smooth experience the Internet.
 ### 节点导入方法  
 CTRL+C全选复制，右键点击任务栏v2rayN客户端图标，左键点击从剪贴板批量导入URL，即可一键导入所有v2ray节点  
