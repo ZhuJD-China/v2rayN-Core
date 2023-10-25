@@ -1,6 +1,6 @@
 ﻿# v2rayN-Core
 
-## freev2rayN.exe 新增-->>>>>一键获取节点
+## freev2rayN.exe 新增--Releases 版本处可下载>>>>>一键获取节点
 
 ## ## Excellent open source network agent tools, can help you smooth experience the Internet.
 ### 节点导入方法  
