@@ -19,4 +19,10 @@ vmess://eyJhZGQiOiAiMTA0LjE2LjY3LjM4IiwgInYiOiAiMiIsICJwcyI6ICJnaXRodWIuY29tL2Zy
 vmess://eyJ2IjogIjIiLCAicHMiOiAiZ2l0aHViLmNvbS9mcmVlZnEgLSBcdTVlN2ZcdTRlMWNcdTc3MDFcdTc5ZmJcdTUyYTggMTAiLCAiYWRkIjogInd3dy5scC1haXJkcm9wLnRvcCIsICJwb3J0IjogIjEyNTgwIiwgImlkIjogIjEyOTZmMjhmLWZiYzMtNDFhMC04MDBkLTg0ZTIzNmQzM2YxNiIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAidGxzIiwgInNuaSI6ICIiLCAiYWxwbiI6ICIifQ==  
 vmess://eyJ2IjogIjIiLCAicHMiOiAiZ2l0aHViLmNvbS9mcmVlZnEgLSBcdTdmOGVcdTU2ZmRDbG91ZEZsYXJlXHU1MTZjXHU1M2Y4Q0ROXHU4MjgyXHU3MGI5IDExIiwgImFkZCI6ICJ3d3cuc3BlZWR0ZXN0Lm5ldCIsICJwb3J0IjogODAsICJpZCI6ICI2MjUxNWFmMi0xZGQ5LTQ2N2ItOWRkMy03NzRhYmVmYjZhNjIiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJob3N0IjogImh1MS54djJyYXkubmV0IiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIn0=  
 
-```  
+```
+
+<p align="center">
+  <a href="https://star-history.com/#Significant-Gravitas/AutoGPT&Date">
+    <img src="https://api.star-history.com/svg?repos=ZhuJD-China/v2rayN-Core&type=Date" alt="Star History Chart">
+  </a>
+</p>
