@@ -22,7 +22,7 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiZ2l0aHViLmNvbS9mcmVlZnEgLSBcdTdmOGVcdTU2ZmRDbG91
 ```
 
 <p align="center">
-  <a href="https://star-history.com/#Significant-Gravitas/AutoGPT&Date">
+  <a href="https://star-history.com/#ZhuJD-China/v2rayN-Core&Date">
     <img src="https://api.star-history.com/svg?repos=ZhuJD-China/v2rayN-Core&type=Date" alt="Star History Chart">
   </a>
 </p>
